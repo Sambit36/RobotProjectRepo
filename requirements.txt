@@ -1,0 +1,5 @@
+robotframework
+selenium~=4.19.0
+robotframework-selenium2library
+robotframework-jsonlibrary
+pip
